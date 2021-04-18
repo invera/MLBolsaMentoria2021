@@ -2,7 +2,7 @@
 
 ## Crear Entorno Virtual
 
-Para poder utilizar los notebooks primero reconemdamos armar un entorno virtual con python3 utilizando alguna de las siguientes herramientas:
+Para poder utilizar los notebooks primero recomendamos armar un entorno virtual con Python 3 utilizando alguna de las siguientes herramientas:
 
 - [Conda](https://docs.conda.io/en/latest/)
 - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
@@ -20,7 +20,7 @@ conda install -c anaconda pandas-datareader jupyterlab
 pip install pandas-datareader jupyterlab
 ```
 
-## Correr jupyerlab
+## Correr Jupyter Lab
 
 ```bash
 jupyter-lab DatosMLBolsa.ipynb
